@@ -1,0 +1,27 @@
+_repo: The-History-of-Duelling-in-two-volumes-Vol-I_57326
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Millingen, J. G. (John Gideon)
+    aliases:
+    - Millingen, J. G. V. (John Gideon V.)
+    - Millingen, J. V. (John V.)
+    - Millengen, J. G. (John Gideon)
+    - Millingen, John Gideon
+    birthdate: 1782
+    deathdate: 1862
+    gutenberg_agent_id: '39823'
+    url: http://www.gutenberg.org/2009/agents/39823
+description: ''
+gutenberg_issued: '2018-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The History of Duelling (in two volumes) Vol I
+url: http://www.gutenberg.org/ebooks/57326
